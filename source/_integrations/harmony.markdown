@@ -194,7 +194,7 @@ Sends the change channel command to the Harmony HUB
 A typical service call for changing the channel would be::
 
 ```yaml
-service: remote.change_channel
+service: remote.harmony_change_channel
 data:
   entity_id: remote.tv_room
   channel: 200

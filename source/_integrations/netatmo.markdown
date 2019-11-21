@@ -267,7 +267,7 @@ The services below permit to control whether the camera should monitor and alert
 
 The `netatmo` thermostat platform is consuming the information provided by a [Netatmo Smart Thermostat](https://www.netatmo.com/product/energy/thermostat) thermostat. This integration allows you to view the current temperature and setpoint.
 
-### Camera Advanced configuration
+### Climate Advanced configuration
 
 If you want to select specific homes or specific rooms,
 set discovery to `false` for [netatmo](/integrations/netatmo/)

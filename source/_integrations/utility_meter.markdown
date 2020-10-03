@@ -87,7 +87,7 @@ Calibrate the Utility Meter. Change the value of a given sensor.
 | Service data attribute | Optional | Description |
 | ---------------------- | -------- | ----------- |
 | `entity_id` | no | String or list of strings that point at `entity_id`s of utility_meters.
-| `value` | no | Number | Value to calibrate the sensor with | 
+| `value` | no | Number. When with decimals, need quotes e.g. ```'7.77'```| Value to calibrate the sensor with | 
 
 ### Service `utility_meter.next_tariff`
 
